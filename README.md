@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tadeo 👋
 
-<!--
-**tadeolescano/tadeolescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GTM Engineer & Growth Marketer with 8 years in B2B SaaS across LATAM and Europe.
 
-Here are some ideas to get you started:
+I build go-to-market engines with AI: outbound, enrichment and automation that actually ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Grew Alegra POS users 6,000%
+- Built a $20M pipeline at Pensero AI
+
+**Repos:** coming soon.
+
+🇦🇷 → 🇪🇸 · English · Español · Português · [LinkedIn](https://www.linkedin.com/in/tadeo-lescano/)
+
+
+
+
+
+
+
