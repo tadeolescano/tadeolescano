@@ -8,6 +8,7 @@ I build go-to-market engines with AI: outbound, enrichment and automation that a
 - Built a $20M pipeline at Pensero AI
 
 **What I've built (open-sourced as generic frameworks):**
+- [gtm-agent-team](https://github.com/tadeolescano/gtm-agent-team): the multi-agent GTM team I designed: router, idea validator, growth architect, market intel and brand listener
 - [gtm-knowledge-vault](https://github.com/tadeolescano/gtm-knowledge-vault): Obsidian vault for building GTM AI agents on evidence, not generic model knowledge
 - [outbound-messaging-system](https://github.com/tadeolescano/outbound-messaging-system): cold email sequences, A/B testing and the Wall of Success method
 - [abm-signal-playbook](https://github.com/tadeolescano/abm-signal-playbook): signal-based ABM scoring, tiers and plays
