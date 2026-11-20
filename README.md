@@ -13,5 +13,7 @@ I build go-to-market engines with AI: outbound, enrichment and automation that a
 - [outbound-messaging-system](https://github.com/tadeolescano/outbound-messaging-system): cold email sequences, A/B testing and the Wall of Success method
 - [abm-signal-playbook](https://github.com/tadeolescano/abm-signal-playbook): signal-based ABM scoring, tiers and plays
 - [crm-qualification-gates](https://github.com/tadeolescano/crm-qualification-gates): HubSpot hard-gate qualification with an audit script
+- [multi-market-growth-os](https://github.com/tadeolescano/multi-market-growth-os): the playbook I used to scale a marketplace across Colombia, Brazil and Mexico
+- [growth-experimentation-os](https://github.com/tadeolescano/growth-experimentation-os): full-funnel experimentation system with templates and a significance calculator
 
 🇦🇷 → 🇪🇸 · English · Español · Português · [LinkedIn](https://www.linkedin.com/in/tadeo-lescano/)
