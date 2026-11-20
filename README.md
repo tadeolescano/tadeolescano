@@ -1,11 +1,13 @@
 # Hi, I'm Tadeo 👋
 
-GTM Engineer & Growth Marketer with 8 years in B2B SaaS across LATAM and Europe.
+Growth marketer turned GTM engineer.
 
-I build go-to-market engines with AI: outbound, enrichment and automation that actually ship.
+I spent years on the growth side of B2B SaaS across LATAM and Europe: launching products in 8 countries and running up to $500k/month in paid media. Now I build the systems behind go-to-market: AI agents in production, signal-based outbound and RevOps automation, mostly no-code and low-code (HubSpot, Clay, n8n, Make).
 
-- Grew Alegra POS users 6,000%
-- Built a $20M pipeline at Pensero AI
+- **+6,000%** new users in 12 months for Alegra POS
+- **$20M pipeline** built on the GTM system I set up at Pensero AI
+- **90k** ghost CRM records cleaned and **+75%** email deliverability
+- **32 h/week** of reporting automated down to near zero with n8n
 
 **What I've built (open-sourced as generic frameworks):**
 - [gtm-agent-team](https://github.com/tadeolescano/gtm-agent-team): the multi-agent GTM team I designed: router, idea validator, growth architect, market intel and brand listener
